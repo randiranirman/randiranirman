@@ -61,3 +61,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/randiranirman/randiranirman/blob/output/github-contribution-grid-snake.svg)
+
