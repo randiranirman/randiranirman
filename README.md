@@ -1,186 +1,168 @@
-# 🌟 Randira Nirman
+# 👋 Hi there, I'm [Your Name]
 
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Backend%20Architect&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40&desc=Crafting%20Scalable%20Solutions%20•%20Sri%20Lanka%20🇱🇰&descSize=18&descAlign=50&descAlignY=60)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=⚡+Backend+Systems+Architect;🚀+Java+%7C+Spring+Boot+%7C+.NET+%7C+Node.js;💡+Building+Tomorrow's+Infrastructure;🌍+Open+Source+Enthusiast" alt="Typing Animation" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=randiranirman&color=brightgreen)
+  [![GitHub followers](https://img.shields.io/github/followers/randiranirman?label=Follow&style=social)](https://github.com/randiranirman)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=your-linkedin-url)](your-linkedin-url)
+  
 </div>
 
-## 🎯 **About Me**
+## 🚀 About Me
 
-> *"Code is poetry written in logic, and I'm here to compose symphonies of scalable systems."*
+Passionate **Full-Stack Software Engineer** with expertise in building **scalable systems** and **fintech solutions**. I thrive on creating robust applications that solve real-world problems, with a particular interest in **finance technology** and **educational platforms**.
+
+- 🔭 Currently working on scalable distributed systems
+- 🌱 Exploring advanced system architecture and microservices
+- 💼 Passionate about **Finance Technology** and **EdTech** solutions
+- ⚡ Love building systems that can handle millions of users
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### **Backend Development**
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### **Databases & Cloud**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🎓 **LearnSphere LMS**
+> *Comprehensive Learning Management System*
+
+A full-featured educational platform built for scalability and user experience.
+
+**Key Features:**
+- Interactive course management and delivery
+- Real-time collaboration tools
+- Advanced analytics and reporting
+- Mobile-responsive design
+
+**Tech Stack:** `Spring Boot` `React` `PostgreSQL` `AWS`
+
+[![View Project](https://img.shields.io/badge/View%20Project-brightgreen?style=for-the-badge)](https://github.com/yourusername/learnsphere-lms)
+
+---
+
+### 💪 **Fit Link App**
+> *Fitness Tracking & Community Platform*
+
+A comprehensive fitness application connecting users with personalized workout plans and community features.
+
+**Key Features:**
+- Personalized workout recommendations
+- Social fitness challenges
+- Progress tracking and analytics
+- Nutrition integration
+
+**Tech Stack:** `React` `Node.js` `MongoDB` `Express.js`
+
+[![View Project](https://img.shields.io/badge/View%20Project-brightgreen?style=for-the-badge)](https://github.com/yourusername/fit-link-app)
+
+---
+
+### 💰 **Spring Boot Finance Solution**
+> *Enterprise Financial Management System*
+
+A robust financial management platform designed for enterprise-level operations with advanced security and scalability.
+
+**Key Features:**
+- Real-time transaction processing
+- Advanced financial reporting
+- Multi-currency support
+- Regulatory compliance tools
+- API-first architecture
+
+**Tech Stack:** `Spring Boot` `Java` `PostgreSQL` `Redis` `Docker`
+
+[![View Project](https://img.shields.io/badge/View%20Project-brightgreen?style=for-the-badge)](https://github.com/yourusername/finance-solution)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=randiranirman&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randiranirman&layout=compact&theme=radical&hide_border=true)
+  
+</div>
+
+---
+
+## 🎯 Areas of Expertise
 
 ```typescript
-const randira = {
-    location: "Sri Lanka 🇱🇰",
-    role: "Backend Systems Architect",
-    passion: ["System Design", "Scalable Architecture", "FinTech Solutions"],
-    currentFocus: [
-        "🎓 LearnSphere LMS Platform",
-        "💪 FitLink - Fitness Ecosystem", 
-        "💰 Advanced Finance Solutions with Spring Boot"
-    ],
-    learningGoals: [
-        "Advanced System Design Patterns",
-        "Data Structures & Algorithms Mastery",
-        "Java Professional Certifications"
-    ],
-    philosophy: "☕ => 💻 => 🚀 (Coffee to Code to Launch)",
-    openTo: "Remote Backend Developer Opportunities"
+const expertise = {
+    architecture: ["Microservices", "Distributed Systems", "Scalable Applications"],
+    frontend: ["React Ecosystem", "Responsive Design", "State Management"],
+    backend: ["RESTful APIs", "Database Design", "System Integration"],
+    finance: ["Payment Processing", "Financial Analytics", "Compliance Systems"],
+    education: ["LMS Development", "Interactive Learning", "Progress Tracking"],
+    cloud: ["AWS Services", "Containerization", "CI/CD Pipelines"]
 };
 ```
 
-<div align="center">
+---
 
-### 🔥 **Tech Arsenal**
+## 🏆 Core Interests
 
-<img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,typescript,javascript,python,go" />
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,docker,kubernetes,aws,gcp" />
-
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,linux,nginx,rabbitmq,kafka,elasticsearch" />
-
-</div>
+- 🏗️ **Scalable System Architecture** - Building systems that grow with user demand
+- 💹 **Financial Technology** - Creating secure, efficient fintech solutions  
+- 🎓 **Educational Technology** - Developing platforms that enhance learning experiences
+- 🔧 **Performance Optimization** - Making applications faster and more efficient
+- 🌐 **Full-Stack Development** - End-to-end application development
 
 ---
 
-## 🏗️ **Architecture Philosophy**
+## 📈 Current Focus
 
-<div align="center">
-
-| 🎯 **Focus Area** | 🛠️ **Technologies** | 🚀 **Expertise Level** |
-|:-----------------:|:-------------------:|:----------------------:|
-| **Backend Systems** | Java, Spring Boot, .NET Core | ⭐⭐⭐⭐⭐ |
-| **Database Design** | MongoDB, PostgreSQL, MySQL | ⭐⭐⭐⭐⭐ |
-| **Microservices** | Docker, Kubernetes, API Gateway | ⭐⭐⭐⭐ |
-| **Cloud Platforms** | AWS, GCP, Azure | ⭐⭐⭐⭐ |
-| **Message Queues** | RabbitMQ, Apache Kafka | ⭐⭐⭐⭐ |
-
-</div>
+🔸 **Microservices Architecture** - Designing resilient distributed systems  
+🔸 **Cloud-Native Development** - Leveraging AWS for scalable deployments  
+🔸 **Financial Data Processing** - Building real-time transaction systems  
+🔸 **Educational Platform Innovation** - Enhancing online learning experiences  
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📫 Let's Connect
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RandiraNirman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandiraNirman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RandiraNirman&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
-
-</div>
-
----
-
-## 🏆 **Achievement Showcase**
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=RandiraNirman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## 📈 **Contribution Graph**
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RandiraNirman&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=58A6FF)
-
-</div>
-
----
-
-## 🎨 **Current Projects Spotlight**
-
-<div align="center">
-
-| 🚀 **Project** | 🛠️ **Tech Stack** | 📋 **Status** | 🔗 **Type** |
-|:--------------:|:------------------:|:--------------:|:------------:|
-| **LearnSphere LMS** | Spring Boot, React, MongoDB | 🟢 Active Development | Learning Management |
-| **FitLink Platform** | .NET Core, Angular, PostgreSQL | 🟡 MVP Phase | Fitness Ecosystem |
-| **FinTech Solution** | Java, Spring Boot, MySQL | 🟢 Active Development | Financial Services |
-
-</div>
-
----
-
-## 🌐 **Connect & Collaborate**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:your-email@domain.com)
-
-</div>
-
----
-
-## 🐍 **Contribution Snake**
-
-<div align="center">
-
-![Snake animation](https://github.com/randiranirman/randiranirman/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 💭 **Developer Quotes**
-
-<div align="center">
-
-*"Great software is not built by individuals, but by teams who understand that code is a conversation between developers, present and future."*
-
-*"The best architecture is not the one that anticipates every change, but the one that makes change effortless."*
-
+  
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randiranirman20011210@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
+  
 </div>
 
 ---
 
 <div align="center">
-
-### 🎯 **2024 Goals**
-
-- [ ] 🚀 Launch LearnSphere LMS Platform
-- [ ] 📚 Complete AWS Solutions Architect Certification  
-- [ ] 🤝 Contribute to 5+ Open Source Projects
-- [ ] 💡 Build a Developer Community around Backend Best Practices
-- [ ] 🎯 Master Advanced System Design Patterns
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=RandiraNirman&style=for-the-badge&color=58A6FF)
-![Stars](https://img.shields.io/github/stars/RandiraNirman?style=for-the-badge&color=58A6FF)
-![Followers](https://img.shields.io/github/followers/RandiraNirman?style=for-the-badge&color=58A6FF)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
-
-**⭐ From [RandiraNirman](https://github.com/RandiraNirman) • Building the future, one commit at a time**
-
+  
+  **"Building scalable solutions that make a difference, one commit at a time."**
+  
+  ⭐ **Star my repositories if you find them helpful!** ⭐
+  
 </div>
