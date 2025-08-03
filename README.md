@@ -14,10 +14,10 @@
 
 ### 🌟 **Crafting Digital Excellence Since Day One** 🌟
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=00D9FF)
-[![Years Badge](https://badges.pufler.dev/years/yourusername?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/yourusername)
-[![Repos Badge](https://badges.pufler.dev/repos/yourusername?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/yourusername)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/yourusername?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=randiranirman&style=for-the-badge&color=00D9FF)
+[![Years Badge](https://badges.pufler.dev/years/randiranirman?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/randiranirman)
+[![Repos Badge](https://badges.pufler.dev/repos/randiranirman?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/randiranirman)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/randiranirman?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/randiranirman)
 
 </div>
 
@@ -121,7 +121,7 @@ const developer = {
 | `AWS` | Infrastructure | Global CDN & auto-scaling |
 
 [![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-ff6b6b?style=for-the-badge)](https://learnsphere-demo.com)
-[![📱 Source Code](https://img.shields.io/badge/📱_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername/learnsphere-lms)
+[![📱 Source Code](https://img.shields.io/badge/📱_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/randiranirman/learnsphere-lms)
 
 </div>
 
@@ -203,7 +203,7 @@ Security: OAuth2 + JWT + AES-256
 Monitoring: Prometheus + Grafana + ELK Stack
 ```
 
-[![🏆 Case Study](https://img.shields.io/badge/🏆_Case_Study-Read_More-purple?style=for-the-badge)](https://github.com/yourusername/financecore-engine)
+[![🏆 Case Study](https://img.shields.io/badge/🏆_Case_Study-Read_More-purple?style=for-the-badge)](https://github.com/randiranirman/financecore-engine)
 
 </div>
 
@@ -213,11 +213,11 @@ Monitoring: Prometheus + Grafana + ELK Stack
 
 # 📊 **PERFORMANCE METRICS**
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=randiranirman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=randiranirman&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiranirman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=randiranirman&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" width="48%" />
 
 </div>
 
@@ -284,7 +284,7 @@ Accessibility ████████▒▒▒ 84%
 
 # 🌟 **ACHIEVEMENT SHOWCASE**
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=randiranirman&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" />
 
 ### 🏆 **Career Highlights**
 | Achievement | Impact | Year |
