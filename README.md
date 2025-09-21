@@ -27,7 +27,7 @@
 
 ```typescript
 const developer = {
-    name: "Your Name Here",
+    name: "Randira Nirman",
     role: "Full-Stack Architect & System Designer",
     location: "🌍 Building from anywhere",
     
@@ -154,7 +154,7 @@ const developer = {
 
 **Tech Stack Mastery**
 ```
-Frontend: React Native + TypeScript
+Frontend: React Native 
 Backend: Node.js + Express + Socket.io  
 Database: MongoDB + Redis Clustering
 ML/AI: TensorFlow.js + OpenPose
