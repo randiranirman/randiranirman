@@ -1,285 +1,202 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hi, I'm Randira Nirman Weerasinghe
+# Hey there! 👋 I'm Randira Nirman Weerasinghe
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Software+Engineering+Intern;Full-Stack+Developer;Microservices+Architect;Building+Scalable+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+### 🚀 Software Engineering Intern | Backend Specialist | Team Leader
+
+*Building scalable solutions that solve real-world problems*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/randira-nirman-weerasinghe)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/randiranirman)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:randiranirman20011210@gmail.com)
+
+📍 Homagama, Sri Lanka | 🎓 3rd Year IT Student @ University of Moratuwa
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=randiranirman&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/randiranirman?label=Followers&style=social" alt="followers" />
-</p>
-
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-```typescript
-const randira = {
-    location: "Homagama, Sri Lanka 🇱🇰",
-    education: "BSc (Hons) IT @ University of Moratuwa",
-    currentYear: "3rd Year",
-    role: "Software Engineering Intern",
-    passion: "Building scalable, high-performance solutions",
-    mindset: "Always learning, always building",
-    
-    architecture: ["Microservices", "Event-Driven", "Cloud-Native"],
-    
-    workingOn: {
-        project: "FitLink Mobile App",
-        description: "Connecting trainers with clients",
-        tech: ["Spring Boot", "React Native", "Kafka", "OAuth 2.0"]
-    },
-    
-    askMeAbout: ["Backend Development", "Microservices", "Cloud Architecture", "System Design"],
-    
-    funFact: "I don't just write code, I architect solutions 🏗️"
-};
+I'm a passionate third-year IT student who thrives on building **scalable, high-performance software solutions**. As a natural team leader, I love guiding projects from concept to deployment while keeping the end-user experience at the forefront. 
+
+**What drives me:** Creating meaningful impact through technology and solving real-world problems with clean, efficient code.
+
+**Currently working on:** FitLink - A mobile application connecting personal trainers with clients, featuring event-driven architecture and real-time tracking capabilities.
+
+## 🛠️ Tech Arsenal
+
+### Languages & Core
+```
+Java ☕ | C# 💜 | JavaScript ⚡ | SQL 🗄️
 ```
 
----
+### Backend & Architecture
+- **Frameworks:** Spring Boot, .NET Core
+- **API Design:** REST APIs, API Gateway, Microservices
+- **Architecture:** Event-Driven Architecture, Circuit Breaker Pattern
+- **Message Queues:** Apache Kafka, SignalR, WebSockets
 
-## 💼 Professional Experience
+### Databases & Caching
+- **Databases:** MS SQL Server, MySQL
+- **Caching:** Redis (Caching & Session Management)
 
-### 🏦 Spring Boot Developer @ JP Morgan Chase & Co.
-**Virtual Internship | 2024**
-- Enterprise-level Spring Boot development
-- Financial technology solutions
-- Large-scale system architecture
+### Cloud & DevOps
+- **Platforms:** Azure, AWS
+- **Containerization:** Docker
+- **Tools:** Git, Postman, Swagger, Jira
 
----
+### Frontend & Mobile
+- **Web:** React, JSP, Ant Design, Tailwind CSS
+- **Mobile:** React Native, Expo, NativeWind
 
-## 🛠️ Tech Stack
+### Security & Auth
+- JWT, OAuth 2.0, Keycloak
 
-<div align="center">
+### Methodologies
+Agile, Scrum, TDD
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🚀 Featured Projects
 
-### **Backend & Frameworks**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+### 🎯 [FitLink Mobile Application](https://github.com/randiranirman) - *Team Leader & Full-Stack Developer*
+> Connecting personal trainers with clients through real-time tracking and event-driven architecture
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
+**The Challenge:** Traditional gym management systems lack real-time engagement between trainers and clients.
 
-### **Databases & Caching**
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+**The Solution:** 
+- Built microservices architecture with Spring Boot backend and React Native Expo frontend
+- Implemented Apache Kafka for real-time data streaming and notifications
+- Integrated OAuth 2.0 and JWT for secure authentication
+- Added AI-powered trainer certification approval system
+- Developed payment and notification services
 
-### **Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Tech Stack:** Spring Boot, React Native Expo, Apache Kafka, OAuth 2.0, NativeWind
 
-### **Security & Architecture**
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![OAuth2.0](https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge&logo=auth0&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+**Impact:** Addressing real gym management challenges with planned commercial launch
 
-### **Development Tools**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
+🔗 [Frontend](https://github.com/randiranirman) | [Backend](https://github.com/randiranirman)
 
 ---
 
-## 🏆 Featured Projects
+### 🎓 [LearnSphere LMS](https://github.com/randiranirman) - *Team Leader & Backend Developer*
+> A Learning Management System tailored for the Sri Lankan education ecosystem
 
-### 🎓 [LearnSphere LMS](https://github.com/randiranirman) 
-**Team Leader & Backend Developer** | .NET Core • React • Azure • Redis • SignalR
+**Key Achievements:**
+- Led microservices architecture deployment on Azure cloud
+- Implemented Redis caching for 40% faster response times
+- Built rate limiting and background processing systems
+- Developed in-memory task queue for concurrent request handling
+- Created real-time notification system using SignalR
+- Designed multi-role authentication for admins, teachers, and students
 
-> Learning Management System tailored for Sri Lankan education system
+**Tech Stack:** .NET Core, React, MS SQL Server, Redis, Azure, Ant Design, Tailwind CSS
 
-**🌟 Key Highlights:**
-- 🏗️ **Microservices Architecture** with Azure cloud deployment
-- ⚡ **Redis Caching** for optimal performance
-- 🔔 **Real-time Notifications** using SignalR
-- 🔒 **JWT Authentication** with multi-role system
-- 🚦 **Rate Limiting** & background processing
-- 📊 In-memory task queue for concurrent requests
+**Architecture:** Cloud-native microservices with JWT authentication
 
-**Tech:** `.NET Core` `React` `MS SQL Server` `Redis` `Azure` `SignalR` `JWT`
-
----
-
-### 🔐 [Scalable Product API](https://github.com/randiranirman)
-**Solo Backend Developer** | Spring Boot • Keycloak • Spring Cloud
-
-> Fault-tolerant microservices API with enterprise-grade security
-
-**🌟 Key Highlights:**
-- 🛡️ **Circuit Breaker Pattern** for fault tolerance
-- 🚪 **API Gateway** with Spring Cloud Gateway
-- 🔐 **Keycloak Integration** for security
-- 🌐 **Resilience Patterns** for high availability
-- 📡 **Spring Feign** for service communication
-
-**Tech:** `Spring Boot` `Keycloak` `Spring Cloud Gateway` `Circuit Breaker` `Feign`
+🔗 [Frontend](https://github.com/randiranirman) | [Backend](https://github.com/randiranirman)
 
 ---
 
-### 💊 [Medicare Online Store](https://github.com/randiranirman)
-**Full-Stack Developer** | Freelance Project
+### 🔧 [Scalable Product API](https://github.com/randiranirman) - *Solo Backend Developer*
+> Enterprise-grade microservices API with fault tolerance and resilience patterns
 
-> E-commerce platform for medical supply business
+**Technical Highlights:**
+- Implemented Circuit Breaker Pattern for fault tolerance
+- Integrated Keycloak for enterprise security
+- Built Spring Cloud Gateway for API routing
+- Applied Spring Feign for inter-service communication
+- Designed for high availability and scalability
 
-**🌟 Key Highlights:**
-- 💳 **Payment Gateway Integration**
-- 📁 File-based data management
-- 🔒 Session-based authentication
-- 🛒 Complete e-commerce functionality
-- 💼 Real-world business solution
+**Tech Stack:** Spring Boot, Keycloak, Spring Cloud Gateway, Circuit Breaker Pattern, Spring Feign
 
-**Tech:** `Java Servlets` `JSP` `Tailwind CSS` `Session Management`
+**Learning:** Deep dive into resilience patterns and enterprise security
 
----
-
-### 💪 [FitLink Mobile App](https://github.com/randiranirman) 🚀 *Ongoing*
-**Team Leader & Full-Stack Developer** | Spring Boot • React Native • Kafka
-
-> Connecting personal trainers with clients for real-time fitness tracking
-
-**🌟 Key Highlights:**
-- 📱 **React Native Expo** mobile application
-- 🔄 **Event-Driven Architecture** with Apache Kafka
-- 🤖 **AI-powered** trainer certification approval
-- 💳 Integrated payment service
-- 🔔 Real-time notification system
-- 🔐 **OAuth 2.0** & JWT authentication
-- 📊 Real-time data tracking
-
-**Tech:** `Spring Boot` `React Native` `Apache Kafka` `OAuth 2.0` `NativeWind`
+🔗 [Repository](https://github.com/randiranirman)
 
 ---
 
-## 📊 GitHub Statistics
+### 💊 [Medicare Online Medical Store](https://github.com/randiranirman) - *Full-Stack Developer*
+> Real-world freelance e-commerce solution for medical supply business
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=randiranirman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiranirman&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+**Business Impact:**
+- Served actual medical supply business needs
+- Integrated payment gateway for secure transactions
+- Built session-based authentication system
+- Implemented file-based data management
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randiranirman&theme=tokyonight" alt="GitHub Streak" />
-</div>
+**Tech Stack:** Java Servlets, JSP, Tailwind CSS
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=randiranirman&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+**Value:** Production-ready solution deployed for real business operations
 
----
+🔗 [Repository](https://github.com/randiranirman)
 
-## 🏅 Certifications & Achievements
+## 📊 Recent Activity
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java_Spring_Boot-in28Minutes-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot Cert"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cert"/>
-    </td>
-  </tr>
-</table>
+<a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=YOUR_REPO_ID&limit=30" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=YOUR_REPO_ID&limit=30&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Recent Contributors Activity" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=YOUR_REPO_ID&limit=30&image_size=auto&color_scheme=light" width="655" height="auto">
+  </picture>
+</a>
 
-### 🎯 Competition Participations
-- **CodeRush 2024** - Participant
-- **Idealize 2023** - Participant  
-- **Idealize 2025** - Participant
+## 💼 Experience
 
----
+**Spring Boot Developer** | JP Morgan Chase & Co. - *Virtual Internship* | 2024
+- Gained hands-on experience in enterprise-level Spring Boot development
+- Worked with financial technology solutions and industry best practices
+- Developed understanding of large-scale system architecture and design patterns
 
-## 🎯 Core Competencies
+## 🏆 Achievements & Certifications
 
-<div align="center">
+**Competitions:**
+- 🥇 CodeRush 2024 - Participant
+- 💡 Idealize 2023 - Participant
+- 🚀 Idealize 2025 - Participant
 
-```mermaid
-mindmap
-  root((Randira<br/>Nirman))
-    Architecture
-      Microservices
-      Event-Driven
-      Cloud-Native
-      API Gateway
-      Circuit Breaker
-    Backend
-      Spring Boot
-      .NET Core
-      REST APIs
-      Apache Kafka
-      SignalR
-    Cloud & DevOps
-      Azure
-      AWS
-      Docker
-      CI/CD
-    Security
-      JWT
-      OAuth 2.0
-      Keycloak
-    Databases
-      MS SQL
-      MySQL
-      Redis
-```
+**Certifications:**
+- ☕ Java Spring Boot Certification - in28Minutes (Udemy)
+- ☁️ AWS Cloud Practitioner Certification - Udemy
 
-</div>
-
----
-
-## 📈 Contribution Activity
+## 📈 GitHub Stats
 
 <div align="center">
   
-[![Randira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=randiranirman&theme=tokyo-night&hide_border=true)](https://github.com/randiranirman)
+![Randira's GitHub stats](https://github-readme-stats.vercel.app/api?username=randiranirman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randiranirman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=randiranirman&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
+
+## 💭 Development Philosophy
+
+> "Great software is not just about writing code—it's about solving real problems, creating scalable solutions, and always keeping the end-user at the heart of every decision."
+
+I believe in:
+- 🎯 **User-Centric Design:** Always prioritizing the end-user experience
+- 🏗️ **Scalable Architecture:** Building systems that grow with business needs
+- 🤝 **Team Leadership:** Guiding projects from concept to deployment
+- 📚 **Continuous Learning:** Staying updated with industry best practices
+- 🌟 **Clean Code:** Writing maintainable, efficient, and well-documented code
+
+## 🤝 Let's Connect!
+
+I'm always open to interesting projects, collaboration opportunities, and meaningful conversations about technology!
+
+- 💼 **LinkedIn:** [Randira Nirman Weerasinghe](https://linkedin.com/in/randira-nirman-weerasinghe)
+- 🐱 **GitHub:** [@randiranirman](https://github.com/randiranirman)
+- 📧 **Email:** randiranirman20011210@gmail.com
+- 📱 **Phone:** +94 77 400 3180
 
 ---
 
-## 🤝 Let's Connect & Build Something Amazing!
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/randira-nirman-weerasinghe)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randiranirman20011210@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/randiranirman)
-[![Phone](https://img.shields.io/badge/Phone-%2B94_77_400_3180-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94774003180)
+**✨ Currently seeking internship and full-time opportunities in backend development and software engineering ✨**
 
-</div>
+*Let's build something amazing together!* 🚀
 
----
-
-<div align="center">
-
-### 💡 *"Building the future, one commit at a time"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  
-**⭐ If you find my work interesting, consider starring my repositories! ⭐**
+![Profile Views](https://komarev.com/ghpvc/?username=randiranirman&color=blueviolet&style=flat-square)
 
 </div>
