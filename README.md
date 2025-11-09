@@ -1,202 +1,138 @@
-# Hey there! 👋 I'm Randira Nirman Weerasinghe
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Hi+There!+👋;I'm+Your+Name!;Welcome+to+my+Profile!" />
+</h1>
+
+<h3 align="center">🚀 Full Stack Developer | 🎨 Creative Coder | 🌟 Tech Enthusiast</h3>
 
 <div align="center">
-  
-### 🚀 Software Engineering Intern | Backend Specialist | Team Leader
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers" />
+</div>
 
-*Building scalable solutions that solve real-world problems*
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/randira-nirman-weerasinghe)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/randiranirman)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:randiranirman20011210@gmail.com)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+</div>
 
-📍 Homagama, Sri Lanka | 🎓 3rd Year IT Student @ University of Moratuwa
+## 🙋‍♂️ About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔭 I'm currently working on **Amazing Open Source Projects**
+- 🌱 I'm currently learning **AI/ML & Cloud Technologies**
+- 👯 I'm looking to collaborate on **Innovative Projects**
+- 💬 Ask me about **Web Development, APIs, and Cloud**
+- 📫 How to reach me: **your.email@example.com**
+- ⚡ Fun fact: **I debug with console.log()**
+- 🎯 2025 Goals: **Contribute to Open Source & Build Cool Stuff**
+
+<br clear="right"/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,cpp,go&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,prisma,graphql&perline=8" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm,yarn,webpack,vite,tailwind&perline=8" />
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=00D9FF&area=true&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/yourusername/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/yourusername/project2)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🤝 Contributing
 
-I'm a passionate third-year IT student who thrives on building **scalable, high-performance software solutions**. As a natural team leader, I love guiding projects from concept to deployment while keeping the end-user experience at the forefront. 
-
-**What drives me:** Creating meaningful impact through technology and solving real-world problems with clean, efficient code.
-
-**Currently working on:** FitLink - A mobile application connecting personal trainers with clients, featuring event-driven architecture and real-time tracking capabilities.
-
-## 🛠️ Tech Arsenal
-
-### Languages & Core
-```
-Java ☕ | C# 💜 | JavaScript ⚡ | SQL 🗄️
-```
-
-### Backend & Architecture
-- **Frameworks:** Spring Boot, .NET Core
-- **API Design:** REST APIs, API Gateway, Microservices
-- **Architecture:** Event-Driven Architecture, Circuit Breaker Pattern
-- **Message Queues:** Apache Kafka, SignalR, WebSockets
-
-### Databases & Caching
-- **Databases:** MS SQL Server, MySQL
-- **Caching:** Redis (Caching & Session Management)
-
-### Cloud & DevOps
-- **Platforms:** Azure, AWS
-- **Containerization:** Docker
-- **Tools:** Git, Postman, Swagger, Jira
-
-### Frontend & Mobile
-- **Web:** React, JSP, Ant Design, Tailwind CSS
-- **Mobile:** React Native, Expo, NativeWind
-
-### Security & Auth
-- JWT, OAuth 2.0, Keycloak
-
-### Methodologies
-Agile, Scrum, TDD
-
-## 🚀 Featured Projects
-
-### 🎯 [FitLink Mobile Application](https://github.com/randiranirman) - *Team Leader & Full-Stack Developer*
-> Connecting personal trainers with clients through real-time tracking and event-driven architecture
-
-**The Challenge:** Traditional gym management systems lack real-time engagement between trainers and clients.
-
-**The Solution:** 
-- Built microservices architecture with Spring Boot backend and React Native Expo frontend
-- Implemented Apache Kafka for real-time data streaming and notifications
-- Integrated OAuth 2.0 and JWT for secure authentication
-- Added AI-powered trainer certification approval system
-- Developed payment and notification services
-
-**Tech Stack:** Spring Boot, React Native Expo, Apache Kafka, OAuth 2.0, NativeWind
-
-**Impact:** Addressing real gym management challenges with planned commercial launch
-
-🔗 [Frontend](https://github.com/randiranirman) | [Backend](https://github.com/randiranirman)
-
----
-
-### 🎓 [LearnSphere LMS](https://github.com/randiranirman) - *Team Leader & Backend Developer*
-> A Learning Management System tailored for the Sri Lankan education ecosystem
-
-**Key Achievements:**
-- Led microservices architecture deployment on Azure cloud
-- Implemented Redis caching for 40% faster response times
-- Built rate limiting and background processing systems
-- Developed in-memory task queue for concurrent request handling
-- Created real-time notification system using SignalR
-- Designed multi-role authentication for admins, teachers, and students
-
-**Tech Stack:** .NET Core, React, MS SQL Server, Redis, Azure, Ant Design, Tailwind CSS
-
-**Architecture:** Cloud-native microservices with JWT authentication
-
-🔗 [Frontend](https://github.com/randiranirman) | [Backend](https://github.com/randiranirman)
-
----
-
-### 🔧 [Scalable Product API](https://github.com/randiranirman) - *Solo Backend Developer*
-> Enterprise-grade microservices API with fault tolerance and resilience patterns
-
-**Technical Highlights:**
-- Implemented Circuit Breaker Pattern for fault tolerance
-- Integrated Keycloak for enterprise security
-- Built Spring Cloud Gateway for API routing
-- Applied Spring Feign for inter-service communication
-- Designed for high availability and scalability
-
-**Tech Stack:** Spring Boot, Keycloak, Spring Cloud Gateway, Circuit Breaker Pattern, Spring Feign
-
-**Learning:** Deep dive into resilience patterns and enterprise security
-
-🔗 [Repository](https://github.com/randiranirman)
-
----
-
-### 💊 [Medicare Online Medical Store](https://github.com/randiranirman) - *Full-Stack Developer*
-> Real-world freelance e-commerce solution for medical supply business
-
-**Business Impact:**
-- Served actual medical supply business needs
-- Integrated payment gateway for secure transactions
-- Built session-based authentication system
-- Implemented file-based data management
-
-**Tech Stack:** Java Servlets, JSP, Tailwind CSS
-
-**Value:** Production-ready solution deployed for real business operations
-
-🔗 [Repository](https://github.com/randiranirman)
-
-## 📊 Recent Activity
-
-<a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=YOUR_REPO_ID&limit=30" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=YOUR_REPO_ID&limit=30&image_size=auto&color_scheme=dark" width="655" height="auto">
-    <img alt="Recent Contributors Activity" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=YOUR_REPO_ID&limit=30&image_size=auto&color_scheme=light" width="655" height="auto">
-  </picture>
-</a>
-
-## 💼 Experience
-
-**Spring Boot Developer** | JP Morgan Chase & Co. - *Virtual Internship* | 2024
-- Gained hands-on experience in enterprise-level Spring Boot development
-- Worked with financial technology solutions and industry best practices
-- Developed understanding of large-scale system architecture and design patterns
-
-## 🏆 Achievements & Certifications
-
-**Competitions:**
-- 🥇 CodeRush 2024 - Participant
-- 💡 Idealize 2023 - Participant
-- 🚀 Idealize 2025 - Participant
-
-**Certifications:**
-- ☕ Java Spring Boot Certification - in28Minutes (Udemy)
-- ☁️ AWS Cloud Practitioner Certification - Udemy
-
-## 📈 GitHub Stats
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 <div align="center">
-  
-![Randira's GitHub stats](https://github-readme-stats.vercel.app/api?username=randiranirman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randiranirman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=randiranirman&theme=tokyonight&hide_border=true&background=0D1117)
+---
+
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## 📞 Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
 </div>
 
-## 💭 Development Philosophy
+---
 
-> "Great software is not just about writing code—it's about solving real problems, creating scalable solutions, and always keeping the end-user at the heart of every decision."
+## 🙏 Acknowledgments
 
-I believe in:
-- 🎯 **User-Centric Design:** Always prioritizing the end-user experience
-- 🏗️ **Scalable Architecture:** Building systems that grow with business needs
-- 🤝 **Team Leadership:** Guiding projects from concept to deployment
-- 📚 **Continuous Learning:** Staying updated with industry best practices
-- 🌟 **Clean Code:** Writing maintainable, efficient, and well-documented code
-
-## 🤝 Let's Connect!
-
-I'm always open to interesting projects, collaboration opportunities, and meaningful conversations about technology!
-
-- 💼 **LinkedIn:** [Randira Nirman Weerasinghe](https://linkedin.com/in/randira-nirman-weerasinghe)
-- 🐱 **GitHub:** [@randiranirman](https://github.com/randiranirman)
-- 📧 **Email:** randiranirman20011210@gmail.com
-- 📱 **Phone:** +94 77 400 3180
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
 
 ---
 
 <div align="center">
-
-**✨ Currently seeking internship and full-time opportunities in backend development and software engineering ✨**
-
-*Let's build something amazing together!* 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=randiranirman&color=blueviolet&style=flat-square)
-
-</div>
