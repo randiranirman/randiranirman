@@ -84,8 +84,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=randiranirman&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/randiranirman/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=randiranirman&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/randiranirman/project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=randiranirman&repo=FitLink-Backend&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/randiranirman/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=randiranirman&repo=LearnSphere-Backend&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/randiranirman/project2)
 
 </div>
 
