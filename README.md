@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Hi+There!+👋;I'm+Your+Name!;Welcome+to+my+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Hi+There!+👋;I'm+Randdira +Nirman!;Welcome+to+my+Profile!" />
 </h1>
 
 <h3 align="center">🚀 Full Stack Developer | 🎨 Creative Coder | 🌟 Tech Enthusiast</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=randiranirman&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/randiranirman?label=Followers&style=social" alt="followers" />
 </div>
 
 <br/>
@@ -27,7 +27,7 @@
 - 🌱 I'm currently learning **AI/ML & Cloud Technologies**
 - 👯 I'm looking to collaborate on **Innovative Projects**
 - 💬 Ask me about **Web Development, APIs, and Cloud**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **randiranirman20011210@gmail.com**
 - ⚡ Fun fact: **I debug with console.log()**
 - 🎯 2025 Goals: **Contribute to Open Source & Build Cool Stuff**
 
@@ -50,7 +50,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiranirman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </div>
 
 ---
@@ -60,8 +60,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=randiranirman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=randiranirman&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
 <br/>
@@ -73,7 +73,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=randiranirman&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -84,8 +84,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/yourusername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/yourusername/project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=randiranirman&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/randiranirman/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=randiranirman&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/randiranirman/project2)
 
 </div>
 
@@ -119,7 +119,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randiranirman)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
 </div>
